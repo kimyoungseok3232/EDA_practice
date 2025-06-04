@@ -1,2 +1,4 @@
 *.csv
 *.zip
+*/catboost_info/*
+*.pth
